@@ -1,0 +1,1 @@
+cmd /k ..\env_312\Scripts\activate
